@@ -8,11 +8,11 @@ In mathematics, the determinant is a scalar value that is a function of the entr
 
 The determinant of a 2 × 2 matrix is
 
-    <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1088473ac5aa66c68e3c5075849825b2e53bccc0"  />
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1088473ac5aa66c68e3c5075849825b2e53bccc0"  />
 
 and the determinant of a 3 × 3 matrix is
 
-    <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a289e27a018f211758c893b0bdb6c229abb864c2" />
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a289e27a018f211758c893b0bdb6c229abb864c2" />
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
