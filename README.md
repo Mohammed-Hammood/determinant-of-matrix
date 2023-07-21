@@ -1,3 +1,20 @@
+## Determinant of a matrix
+-- Created by create next next app
+-- `Stack` NextJs, Sass, Styled-components, TypeScript
+-- Deployed on https://determinant-of-matrix.vercel.app
+
+# What is a determinant of a matrix?
+In mathematics, the determinant is a scalar value that is a function of the entries of a square matrix. It characterizes some properties of the matrix and the linear map represented by the matrix. In particular, the determinant is nonzero if and only if the matrix is invertible and the linear map represented by the matrix is an isomorphism. The determinant of a product of matrices is the product of their determinants (the preceding property is a corollary of this one). The determinant of a matrix A is denoted det(A), det A, or |A|.
+
+The determinant of a 2 × 2 matrix is
+
+    | a b c d | = a d − b c , {\displaystyle {\begin{vmatrix}a&b\\c&d\end{vmatrix}}=ad-bc,}
+
+and the determinant of a 3 × 3 matrix is
+
+    | a b c d e f g h i | = a e i + b f g + c d h − c e g − b d i − a f h . {\displaystyle {\begin{vmatrix}a&b&c\\d&e&f\\g&h&i\end{vmatrix}}=aei+bfg+cdh-ceg-bdi-afh.}
+    
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
