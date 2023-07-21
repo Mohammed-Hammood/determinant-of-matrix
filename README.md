@@ -8,7 +8,7 @@ In mathematics, the determinant is a scalar value that is a function of the entr
 
 The determinant of a 2 × 2 matrix is
 
-    https://wikimedia.org/api/rest_v1/media/math/render/svg/1088473ac5aa66c68e3c5075849825b2e53bccc0
+    <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1088473ac5aa66c68e3c5075849825b2e53bccc0"  />
 
 and the determinant of a 3 × 3 matrix is
 
