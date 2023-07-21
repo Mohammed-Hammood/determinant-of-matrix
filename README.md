@@ -14,7 +14,12 @@ and the determinant of a 3 × 3 matrix is
 
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a289e27a018f211758c893b0bdb6c229abb864c2" />
 
+Source [wikipedia](https://en.wikipedia.org/wiki/Determinant)
 
+
+
+
+___________________________________________________________________________________
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
